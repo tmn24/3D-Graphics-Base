@@ -10,6 +10,7 @@ How to use the program:
 7. You can add new .stl files to display with the ADD MODEL button.
 8. You can click on a model (It will turn blue) and hit the delete key to remove it from the display.
 
-There are 3 provided STLs to try out with program in the STLs folder
+There are 3 provided STLs to try out with program in the STLs folder.
+
 That's all! 
 I was inspired to do this because I wanted to create a simulation of 3D objects with physics. I needed to create my own 3D graphics program first though.
